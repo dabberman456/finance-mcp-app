@@ -35,7 +35,7 @@
     "react-native-share": "^12.2.5",
     "react-native-sms-listener": "^0.0.1",
     "react-native-svg": "^15.15.3",
-    "oscar-redis": "^5.11.2",
+    "oracle-redis": "^5.11.2",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
